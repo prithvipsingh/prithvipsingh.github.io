@@ -7,10 +7,7 @@
   height: 200px;
   width: 150px;
 }
-.sr-only{
-color: aquamarine;
 
-}
 hr {
   border: 0;
   height: 2px;
@@ -39,7 +36,6 @@ font-size: large;
 margin-right: 10px;
 
 }
-
 body{
 background-color: silver;
 }
